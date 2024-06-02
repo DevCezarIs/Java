@@ -1,4 +1,4 @@
-package edu.cezar.primeirasemana;
+package edu.cezar.primeiraSemana;
 public class BoletimEStudante {
     
     public static void main(String[] args) {

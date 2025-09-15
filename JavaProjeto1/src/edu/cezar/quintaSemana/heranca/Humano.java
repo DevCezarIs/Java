@@ -6,7 +6,7 @@ public class Humano extends SerVivo {
     public Humano(String nome){
         this.nome = nome;
     }
-
+// Como a classe SerVivo é uma classe abstrata é so colocar o decorador para sobre escrever
     @Override
     public void respirar() {
         System.out.println("Humano Respirando");

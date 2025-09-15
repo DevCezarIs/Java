@@ -1,6 +1,4 @@
-package edu.cezar.quintaSemana;
-
-import javax.swing.*;
+package edu.cezar.quintaSemana.out;
 
 public class classes {
 

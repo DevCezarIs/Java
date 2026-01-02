@@ -5,8 +5,7 @@ import java.util.*;
 
 public class main {
     public static void main(String[] args) {
-        /*  Usando List para criar uma lista da qual os valores serao
-        adcionados futuramente  */
+
 
         List<String> lista = new ArrayList<>();
         lista.add("Apple");
